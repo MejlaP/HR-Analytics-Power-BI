@@ -34,3 +34,8 @@ Throughout this case study, I strengthened my Power BI skills by:
 - Interpreting data to provide actionable insights on HR attrition
 
 This was a great hands-on project to apply real-world Power BI techniques in a business context.
+
+## 📷 Dashboard Preview
+
+![obrazek](https://github.com/user-attachments/assets/89da4682-9693-4d17-a5a6-eb578be700b7)
+
